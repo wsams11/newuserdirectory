@@ -1,0 +1,87 @@
+body {
+   
+    background-color: white
+}
+
+table{
+
+     margin-top: 15px;
+ }
+
+th {
+    
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: grey;
+}
+
+header {
+    padding: 15px;
+    margin-top: 20px;
+    background-color: rgb(170, 165, 165);
+}
+.email {
+    color:rgb(28, 28, 235);
+    font-size: 15px;
+}
+
+.inputAndButton{
+    margin-top:40px
+}
+
+.searchBttn{
+    margin-top:40px;
+    border-radius: 20px;;
+    letter-spacing: 1px !important;;
+    font-size:10px ;
+    background-color: #2b4162;
+    font-weight: bolder;
+}
+
+img {  
+    box-shadow: black 1px 1px 8px;  
+ }
+
+ .headerText {
+     text-align: center;
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-weight: lighter;
+    text-shadow: rgb(102, 102, 102) 1px 1px 1px;   
+    color: rgb(53, 53, 53)
+ }
+
+input:focus, input.form-control:focus {
+
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow:none !important;;
+    -moz-box-shadow: none !important;;
+    -webkit-box-shadow: none !important;;
+   
+}
+
+input {
+    
+color: gray !important;
+}
+
+ .smallerHeaderText{
+   color: white;
+   letter-spacing: 0.5px;
+   line-height: 0px;
+   font-weight: lighter;
+   margin-top: 0;
+ }
+
+ .tableEmployee{
+     margin-left: 40px;
+     margin-right: 40px;
+     padding: 0px;
+ }
+ 
+ td{
+      font-size: 16px;
+      letter-spacing: 0.5px;
+      font-weight: bold;
+  }
